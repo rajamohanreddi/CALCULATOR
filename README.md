@@ -22,3 +22,5 @@ Reducing human errors in calculations.
 Enhancing efficiency in scientific research, finance, and engineering.
 
 Modern calculators can be standalone devices or integrated into computers and smartphones as apps. Some even come with AI-powered features to solve equations using a camera.
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/39d98a56-7bc0-4c5e-92f3-51c510f86e49)
